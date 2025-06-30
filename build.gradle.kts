@@ -89,3 +89,4 @@ subprojects {
 task<Delete>("clean") {
     delete(rootProject.layout.buildDirectory)
 }
+git bash me gaand maralo
